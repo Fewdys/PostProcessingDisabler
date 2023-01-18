@@ -1,3 +1,3 @@
 # PostProcessingDisabler
 
-#### A Mod That Disables All If Not Most Post Processing On World Join
+#### A VRChat Mod That Disables All If Not Most Post Processing On World Join
