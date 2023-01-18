@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("dc17adf3-8cbc-449d-bed9-b00b0aa4e851")]
-[assembly: MelonInfo(typeof(PostProcess.PostProcessing), "PostProcessingDisabler", "1.0.0", "Fewdy")]
+[assembly: MelonInfo(typeof(PostProcessingDisabler.PostProcessingDisabler), "PostProcessingDisabler", "1.0.0", "Fewdy")]
 [assembly: MelonGame("VRChat", "VRChat")]
 [assembly: MelonColor(System.ConsoleColor.DarkRed)]
 // Version information for an assembly consists of the following four values:
